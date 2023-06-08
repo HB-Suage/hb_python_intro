@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import platform
 
 print("Python version: ", platform.python_version())
@@ -13,9 +14,7 @@ print("Version: ", platform.version())
 print("Machine: ", platform.machine())
 print("Processor: ", platform.processor())
 
-
 text = "リューチェーンを構築することが、農家の所得向上につながり、最終的には農業現場の待遇向上にもつながる。生産者が、コンビニエンスストアに商品を納めるベンダーや外食チェーン向けに契約栽培をしたり、商品開発に参画したりといった事例が増えている。そうしてフードバリューチェーンを構築することが、農家の所得向上につながり、最終的には農業現場の待遇向上にもつながる。"
-
 
 r""" 実行結果：
 D:\GitHome\hb_pyhton_study\venv\Scripts\python.exe D:\GitHome\hb_pyhton_study\08.encoding_error_demo.py 
